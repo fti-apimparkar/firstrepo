@@ -1,3 +1,6 @@
 This file is present in branch1 of NewProject
 
-New Changes done in fileinbranch1
+New Changes done in fileinbranch2 This is in branch2
+
+
+
