@@ -1,4 +1,4 @@
-# SCORER UI KIT
+# SCORER UI KIT Modified
 
 SCORER UI KIT is a UI components library created in react for faster web applications development.
 
