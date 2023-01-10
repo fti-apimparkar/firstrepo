@@ -4,3 +4,5 @@
 commits in branch1
 
 <h1> This is First Heading </h1>
+
+<h2> This is New Heading by Developer 2 </h2>
